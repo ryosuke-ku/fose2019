@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.10)  17 SEP 2019 22:20
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.10)  20 SEP 2019 13:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -141,52 +141,55 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 32.
-Excluding 'comment' comment.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 39.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 39.
 
+Overfull \vbox (1.2871pt too high) detected at line 32
+ []
+
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 34.
 Sorry, I don't know how to forget kinsoku rules.
 Excluding 'comment' comment.
 Sorry, I don't know how to forget kinsoku rules.
 Excluding 'comment' comment.
-Sorry, I don't know how to forget kinsoku rules.
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 79.
+               Default added (so using `tbp') on input line 66.
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 81.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 81.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 68.
 
-Overfull \hbox (3.03287pt too wide) in paragraph at lines 83--92
+Overfull \hbox (3.03287pt too wide) in paragraph at lines 70--79
  [][] 
  []
 
-[1]
+Sorry, I don't know how to forget kinsoku rules.
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 96.
+               Default added (so using `tbp') on input line 87.
 
+[1]
+Sorry, I don't know how to forget kinsoku rules.
 Sorry, I don't know how to forget kinsoku rules.
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 120.
+(Font)              using `JT1/mc/m/n' instead on input line 112.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 120.
+(Font)              using `JY1/mc/m/n' instead on input line 112.
 
 [2] (./thesis_fose2019.aux) ) 
 Here is how much of TeX's memory you used:
  888 strings out of 493230
  10987 string characters out of 6147555
- 89123 words of memory out of 5000000
+ 87123 words of memory out of 5000000
  4907 multiletter control sequences out of 15000+600000
  18566 words of font info for 71 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,14n,21p,1746b,304s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,14n,21p,661b,302s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis_fose2019.dvi (2 pages, 14100 bytes).
+Output written on thesis_fose2019.dvi (2 pages, 13984 bytes).
